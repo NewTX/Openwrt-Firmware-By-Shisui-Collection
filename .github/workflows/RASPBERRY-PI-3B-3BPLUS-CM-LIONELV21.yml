@@ -17,7 +17,7 @@ on:
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: main
+  REPO_BRANCH: 21.02
   FEEDS_CONF: router-config/RASPBERRY-PI-3B-3BPLUS-CM-LIONELV21/feeds.conf.default
   CONFIG_FILE: router-config/RASPBERRY-PI-3B-3BPLUS-CM-LIONELV21/1.config
   DIY_P1_SH: router-config/RASPBERRY-PI-3B-3BPLUS-CM-LIONELV21/diy-part1.sh
