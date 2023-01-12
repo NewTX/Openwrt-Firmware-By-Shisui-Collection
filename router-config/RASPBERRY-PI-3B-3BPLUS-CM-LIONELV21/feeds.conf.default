@@ -15,5 +15,5 @@ src-git bypass https://github.com/Cneupa/luci-app-bypass.git;main
 src-git edge https://github.com/kiddin9/luci-theme-edge.git;master
 src-git argon https://github.com/jerrykuku/luci-theme-argon.git;master
 src-git vssr https://github.com/jerrykuku/luci-app-vssr.git;master
-src-git maxmindbb https://github.com/jerrykuku/lua-maxminddb.git;master
+src-git maxmindbb https://github.com/NewTX/lua-maxminddb.git;master
 src-git autocore https://github.com/MatJehey/autocore-arm-x86.git;main
